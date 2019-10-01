@@ -1,6 +1,6 @@
 # Pond5 - Cláudia Correia
 
-## Run Locally
+### Local execution
 To run this code locally clone the repository
 
 
@@ -12,7 +12,7 @@ python app.py
 
 Open browser -> http://localhost:8080
 
-## Run with Docker
+### Docker
 
 Run it using:
 ```bash
