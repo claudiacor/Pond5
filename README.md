@@ -26,6 +26,6 @@ localhost:8080/ping -> ping Pond5 website
 
 localhost:8080/system -> returns service version and system information
 
-localhost:8080/mediainfo/<id> -> returns an image filename, size, dimensions and title
+localhost:8080/mediainfo/id -> returns an image filename, size, dimensions and title
 
 
