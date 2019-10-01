@@ -62,7 +62,7 @@ def mediainfo(id):
 
     # Dictionary to return JSON object with image filename, size, dimensions and image title
     json_info = {
-        'filename': filename,
+        "filename": filename,
         "size": size,
         "height": height,
         "width": width,
