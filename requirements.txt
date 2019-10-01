@@ -1,0 +1,7 @@
+flask
+beautifulsoup4
+flask_restful
+flask_jsonpify
+request
+requests
+
