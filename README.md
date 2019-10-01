@@ -1,11 +1,15 @@
-# Pond5 Cláudia Correia
+# Pond5 - Cláudia Correia
 
 ## Run Locally
 To run this code locally clone the repository
+
+
 Run in the terminal:
 ```bash
 python app.py
 ```
+
+
 Open browser -> http://localhost:8080
 
 ## Run with Docker
